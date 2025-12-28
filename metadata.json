@@ -1,0 +1,5 @@
+{
+  "name": "Visitors Account Manager",
+  "description": "A high-fidelity replica of an account settings dashboard featuring profile management, avatar updates, and account deletion options with a responsive sidebar navigation.",
+  "requestFramePermissions": []
+}
